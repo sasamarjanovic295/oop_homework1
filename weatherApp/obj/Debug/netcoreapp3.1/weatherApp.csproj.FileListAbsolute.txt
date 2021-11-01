@@ -1,0 +1,16 @@
+/Users/sasamarjanovic/Projects/homework1/weather_conditions/bin/Debug/netcoreapp3.1/weatherApp.deps.json
+/Users/sasamarjanovic/Projects/homework1/weather_conditions/bin/Debug/netcoreapp3.1/weatherApp.runtimeconfig.json
+/Users/sasamarjanovic/Projects/homework1/weather_conditions/bin/Debug/netcoreapp3.1/weatherApp.runtimeconfig.dev.json
+/Users/sasamarjanovic/Projects/homework1/weather_conditions/bin/Debug/netcoreapp3.1/weatherApp.dll
+/Users/sasamarjanovic/Projects/homework1/weather_conditions/bin/Debug/netcoreapp3.1/weatherApp.pdb
+/Users/sasamarjanovic/Projects/homework1/weather_conditions/bin/Debug/netcoreapp3.1/weatherLibrary.dll
+/Users/sasamarjanovic/Projects/homework1/weather_conditions/bin/Debug/netcoreapp3.1/weatherLibrary.pdb
+/Users/sasamarjanovic/Projects/homework1/weather_conditions/obj/Debug/netcoreapp3.1/weatherApp.csproj.AssemblyReference.cache
+/Users/sasamarjanovic/Projects/homework1/weather_conditions/obj/Debug/netcoreapp3.1/weatherApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sasamarjanovic/Projects/homework1/weather_conditions/obj/Debug/netcoreapp3.1/weatherApp.AssemblyInfoInputs.cache
+/Users/sasamarjanovic/Projects/homework1/weather_conditions/obj/Debug/netcoreapp3.1/weatherApp.AssemblyInfo.cs
+/Users/sasamarjanovic/Projects/homework1/weather_conditions/obj/Debug/netcoreapp3.1/weatherApp.csproj.CoreCompileInputs.cache
+/Users/sasamarjanovic/Projects/homework1/weather_conditions/obj/Debug/netcoreapp3.1/weatherApp.csproj.CopyComplete
+/Users/sasamarjanovic/Projects/homework1/weather_conditions/obj/Debug/netcoreapp3.1/weatherApp.dll
+/Users/sasamarjanovic/Projects/homework1/weather_conditions/obj/Debug/netcoreapp3.1/weatherApp.pdb
+/Users/sasamarjanovic/Projects/homework1/weather_conditions/obj/Debug/netcoreapp3.1/weatherApp.genruntimeconfig.cache

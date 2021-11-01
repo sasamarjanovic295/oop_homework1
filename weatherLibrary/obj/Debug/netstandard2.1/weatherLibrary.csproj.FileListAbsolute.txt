@@ -1,0 +1,10 @@
+/Users/sasamarjanovic/Projects/homework1/weatherLibrary/bin/Debug/netstandard2.1/weatherLibrary.deps.json
+/Users/sasamarjanovic/Projects/homework1/weatherLibrary/bin/Debug/netstandard2.1/weatherLibrary.dll
+/Users/sasamarjanovic/Projects/homework1/weatherLibrary/bin/Debug/netstandard2.1/weatherLibrary.pdb
+/Users/sasamarjanovic/Projects/homework1/weatherLibrary/obj/Debug/netstandard2.1/weatherLibrary.csproj.AssemblyReference.cache
+/Users/sasamarjanovic/Projects/homework1/weatherLibrary/obj/Debug/netstandard2.1/weatherLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sasamarjanovic/Projects/homework1/weatherLibrary/obj/Debug/netstandard2.1/weatherLibrary.AssemblyInfoInputs.cache
+/Users/sasamarjanovic/Projects/homework1/weatherLibrary/obj/Debug/netstandard2.1/weatherLibrary.AssemblyInfo.cs
+/Users/sasamarjanovic/Projects/homework1/weatherLibrary/obj/Debug/netstandard2.1/weatherLibrary.csproj.CoreCompileInputs.cache
+/Users/sasamarjanovic/Projects/homework1/weatherLibrary/obj/Debug/netstandard2.1/weatherLibrary.dll
+/Users/sasamarjanovic/Projects/homework1/weatherLibrary/obj/Debug/netstandard2.1/weatherLibrary.pdb

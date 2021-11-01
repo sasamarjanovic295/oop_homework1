@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{8201A7C4-4A50-4C94-A553-24D50E269307}|Default">
+  <MonoDevelop.Ide.ItemProperties.weatherApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="weatherLibrary/Weather.cs">
+    <Files>
+      <File FileName="weather_conditions/Program.cs" Line="5" Column="2" />
+      <File FileName="weatherLibrary/Class1.cs" Line="70" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="homework1" expanded="True">
+            <Node name="weatherApp" expanded="True" />
+            <Node name="weatherLibrary" expanded="True">
+              <Node name="Weather.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
